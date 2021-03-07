@@ -1,0 +1,41 @@
+.logo {
+    width: 100;
+    height: 100;
+    padding: 2%;
+    font-size: 12x;
+    border: 15x;
+    background-color: black;
+    margin-top: 2px;
+    margin-right: 2px;
+    border-radius: 13px;
+   
+   
+
+}
+.titulo {
+    text-align: center;
+    font-family: monospace;
+    background-color: black;
+    color: white;
+    border-radius: 1000px;
+    padding: 1%;
+    font-size: 40px;
+}
+.banhoetosa {
+    text-align: right;
+    border-radius: 10px;
+    color: black;
+    background: yellow;
+    padding: 3px;
+    font-family: 'Courier New', Courier, monospace;
+}   
+.levaetraz {
+    text-align: right;
+    border-radius: 10px;
+    color: black;
+    background: yellow;
+    padding: 3px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
+}
